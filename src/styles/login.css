@@ -1,0 +1,39 @@
+.auth__form {
+  background-color: #f7f7f7;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 0 5px 35px rgba(0, 0, 0, 0.15);
+  margin-block: 5rem;
+  
+}
+
+.auth__btn {
+  background-color: white;
+  color: var(--primary-color);
+  font-weight: 600;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+
+}
+
+.auth__form p {
+  margin-top: 30px;
+}
+
+.auth__form p a {
+  color: rgba(255, 255, 255, 0.736);
+}
+
+.form__group input {
+  padding: 0.25rem;
+  width: 100%;
+}
+
+/***
+*
+*
+* SIGNUP
+*/
+
+.auth__form input[type="file"] {
+  color: white;
+}
